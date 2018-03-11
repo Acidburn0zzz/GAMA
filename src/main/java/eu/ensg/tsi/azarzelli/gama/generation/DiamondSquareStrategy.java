@@ -7,6 +7,7 @@ public final class DiamondSquareStrategy implements IGenerationStrategy {
 
     /**
      * Fills a matrix with diamond square generated values
+     * 
      * @param matrix the double 2d array to fill
      */
 	@Override
