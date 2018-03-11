@@ -25,6 +25,7 @@ public class PerlinNoiseStrategyTest {
 		assertTrue(matrix[0][0] < 1);
 		assertTrue(sum > 1);
 		assertTrue(sum < 10000);
+		assertTrue(false);
 	}
 
 }
